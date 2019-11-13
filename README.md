@@ -3,7 +3,9 @@ Journal club
 
 [![Project Status: Active – The project has reached a stable, usable state and is being actively developed.](https://www.repostatus.org/badges/latest/active.svg)](https://www.repostatus.org/#active)
 
-**An overview of important and/or interesting journal articles (ordered alphabetically by first author's surname, then by year)**
+**An overview of important and/or interesting journal articles (ordered alphabetically by first author's surname, then by year). Journal abbreviations follow ISO 4**
+
+See also [the reference collection to push back against common statistical myths](https://discourse.datamethods.org/t/reference-collection-to-push-back-against-common-statistical-myths/1787)
 
 * Gram, H. C. (1884). _Über die isolierte Färbung der Schizomyceten in Schnitt- und Trockenpräparaten_. Fortschritte der Medizin. 2:185–189.
 > Description of Gram staining.
