@@ -3,7 +3,7 @@ Journal club
 
 [![Project Status: Active – The project has reached a stable, usable state and is being actively developed.](https://www.repostatus.org/badges/latest/active.svg)](https://www.repostatus.org/#active)
 
-**An overview of important and/or interesting journal articles (ordered alphabetically by first author's surname, then by year). Journal abbreviations follow ISO 4**
+**An overview of important and/or interesting journal articles (ordered by year then alphabetically by first author's surname). Journal abbreviations follow ISO 4**
 
 See also [the reference collection to push back against common statistical myths](https://discourse.datamethods.org/t/reference-collection-to-push-back-against-common-statistical-myths/1787)
 
@@ -20,7 +20,7 @@ See also [the reference collection to push back against common statistical myths
 > Discovery of vaccine against fowl cholera.
 
 * Lotka, A. J. (1910). _Contribution to the Theory of Periodic Reaction_. J Phys Chem. 14(3):271–274. DOI:[10.1021/j150111a004](https://doi.org/10.1021/j150111a004). 
-> Predator-prey model
+> Predator-prey model.
 
 * Ross, R. (1911). _The Prevention of Malaria_. Murray, London. Second edition.
 > First mathematical model for malaria.
