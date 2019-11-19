@@ -5,7 +5,7 @@ Journal club
 
 **An overview of important and/or interesting journal articles (ordered by year then alphabetically by first author's surname). Journal abbreviations follow ISO 4**
 
-See also [the reference collection to push back against common statistical myths](https://discourse.datamethods.org/t/reference-collection-to-push-back-against-common-statistical-myths/1787)
+See also [the reference collection to push back against common statistical myths](https://discourse.datamethods.org/t/reference-collection-to-push-back-against-common-statistical-myths/1787) and [Wiki Journal Club](https://www.wikijournalclub.org/wiki/Main_Page)
 
 * Gram, H. C. (1884). _Über die isolierte Färbung der Schizomyceten in Schnitt- und Trockenpräparaten_. Fortschritte der Medizin. 2:185–189.
 > Description of Gram staining.
