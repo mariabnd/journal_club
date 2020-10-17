@@ -38,3 +38,8 @@ See also [the reference collection to push back against common statistical myths
 
 * Bennett, C. M., Baird, A. A., Miller, M. B., and Wolford G. L. (2010). _Neural correlates of interspecies perspective taking in the post-mortem Atlantic Salmon: An argument for multiple comparisons correction_. J. Serendipitous Unexpected Results. 1(1):1–5
 > The dead salmon study. Highlights issues with multiple testing.
+
+* Halsey, L. G. (2019). _The reign of the p-value is over: what alternative analyses could we employ to fill the power vacuum?_ Biol. Lett. 15:20190174 DOI:[10.1098/rsbl.2019.0174](https://doi.org/10.1098/rsbl.2019.0174)
+
+* Kennedy-Shaffer, L. (2019). _Before p<0.05 to Beyond p<0.05: Using History to Contextualize p-Values and Significance Testing_. Am. Stat. 73(sup1):82-90 DOI:[10.1080/00031305.2018.1537891](https://doi.org/10.1080/00031305.2018.1537891)
+> Historical context for Fisher and Neyman
