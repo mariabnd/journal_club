@@ -36,6 +36,12 @@ See also [the reference collection to push back against common statistical myths
 
 * Ioannidis, J. P. A. (2005). _Why Most Published Research Findings Are False_. PLOS Medicine 2(8):e124. DOI:[10.1371/journal.pmed.0020124](https://doi.org/10.1371/journal.pmed.0020124).
 
+* Song, W. T. (2005). _Relationships among some univariate distributions_. IIE Transactions. 37(7):651-656. DOI:[10.1080/07408170590948512](https://doi.org/10.1080/07408170590948512).
+> Includes a figure with relationships between univariate distributions.
+
+* Leemis, L. M. and McQueston, J. T. (2008). _Univariate Distribution Relationships_. American Statistician 62(1):45-53. DOI:[10.1198/000313008X270448](https://doi.org/10.1198/000313008X270448).
+> Includes a figure with relationships between univariate distributions. Updates previous article by Leemis (1986).
+
 * Bennett, C. M., Baird, A. A., Miller, M. B., and Wolford G. L. (2010). _Neural correlates of interspecies perspective taking in the post-mortem Atlantic Salmon: An argument for multiple comparisons correction_. J. Serendipitous Unexpected Results. 1(1):1–5
 > The dead salmon study. Highlights issues with multiple testing.
 
