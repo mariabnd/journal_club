@@ -7,6 +7,8 @@ Journal club
 
 See also [the reference collection to push back against common statistical myths](https://discourse.datamethods.org/t/reference-collection-to-push-back-against-common-statistical-myths/1787), [Wiki Journal Club](https://www.wikijournalclub.org/wiki/Main_Page), [Society for Healthcare Epidemiology of America journal club](https://shea-online.org/index.php/membership/shea-journal-club), [International Society for Pharmacoepidemiology journal club](https://webed.pharmacoepi.org/products/ispe-journal-club-webinar), and [Global Diabetes Journal Club](https://groups.google.com/forum/#!forum/global-diabetes-journal-club) as well as Twitter hashtags [#twitjc (general)](https://twitter.com/hashtag/twitjc), [#phtwitjc (public health)](https://twitter.com/hashtag/phtwitjc), and [#idjclub (infectious disease)](https://twitter.com/hashtag/idjclub)
 
+Tutorial articles can be found in the series: [JAMA Guide to Statistics and Medicine](https://jamanetwork.com/collections/44042/guide-to-statistics-and-medicine), [Statistics in Medicine's tutorial papers](https://onlinelibrary.wiley.com/page/journal/10970258/homepage/tutorials.htm), Nature's [Points of Significance](https://www.nature.com/collections/qghhqm/pointsofsignificance) and the BMJ [Statistics Notes](https://www.bmj.com/specialties/statistics-notes) and [Endgames](https://www.bmj.com/specialties/statistics)
+
 * Gram, H. C. (1884). _Über die isolierte Färbung der Schizomyceten in Schnitt- und Trockenpräparaten_. Fortschritte der Medizin. 2:185–189.
 > Description of Gram staining.
 
