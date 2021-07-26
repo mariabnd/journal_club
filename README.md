@@ -47,6 +47,9 @@ Tutorial articles can be found in the series: [JAMA Guide to Statistics and Medi
 * Bennett, C. M., Baird, A. A., Miller, M. B., and Wolford G. L. (2010). _Neural correlates of interspecies perspective taking in the post-mortem Atlantic Salmon: An argument for multiple comparisons correction_. J. Serendipitous Unexpected Results. 1(1):1–5
 > The dead salmon study. Highlights issues with multiple testing.
 
+* Lloyd-Smith, J. O., Mollison, D., Metcalf, J. E., Klepac, P., and Heesterbeek, J. A. P. (2015) _Challenges in Modelling Infectious Disease Dynamics_. 10 DOI(to editors preface of special edition):[10.1016/j.epidem.2015.02.001](https://doi.org/10.1016/j.epidem.2015.02.001).
+> Provides overviews of some topics/can be used as a quick reference
+
 * Halsey, L. G. (2019). _The reign of the p-value is over: what alternative analyses could we employ to fill the power vacuum?_ Biol. Lett. 15:20190174 DOI:[10.1098/rsbl.2019.0174](https://doi.org/10.1098/rsbl.2019.0174)
 
 * Kennedy-Shaffer, L. (2019). _Before p<0.05 to Beyond p<0.05: Using History to Contextualize p-Values and Significance Testing_. Am. Stat. 73(sup1):82-90 DOI:[10.1080/00031305.2018.1537891](https://doi.org/10.1080/00031305.2018.1537891)
