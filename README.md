@@ -27,11 +27,33 @@ Tutorial articles can be found in the series: [JAMA Guide to Statistics and Medi
 * Ross, R. (1911). _The Prevention of Malaria_. Murray, London. Second edition.
 > First mathematical model for malaria.
 
+* Fisher, R. A. (1922) _On the mathematical foundations of theoretical statistics_. Philos Trans R Soc Lond A Contain Pap Math Phys Character. 22(594-604):309-368. DOI:[10.1098/rsta.1922.0009](https://doi.org/10.1098/rsta.1922.0009)
+
 * Kermack, W. O. and McKendrick, A. G. (1927). _A Contribution to the Mathematical Theory of Epidemics_. Proc. Royal Soc. A. 115(772):700–721. DOI:[10.1098/rspa.1927.0118](https://doi.org/10.1098/rspa.1927.0118). 
-> The SIR model. Introduces the reproduction rate.
+> The SIR model. Introduces the reproduction number.
+
+* Kolmogorov, A. (1933) Sulla determinazione empirica di una legge di distribuzione [On the empirical determination of a distribution]
+
+* de Finetti, B. (1937). _La Prévision: ses lois logiques, ses sources subjectives [Foresight: Its logical laws, its subjective sources]_ Ann Inst Henri Poincaré. 7:1-68
+
+* Gnedenko, B. (1943) _Sur la distribution limite du terme maximum d'une série aléatoire [On the limiting distribution of the maximum term in a random series]_.
+ 
+* Wald, A. (1945). _Sequential tests of statistical hypotheses_. Ann Math Stat. 16(2):117-186 DOI:[{10.1214/aoms/1177731118](https://doi.org/10.1214/aoms/1177731118)
+ 
+* Wald, A. (1949). _Statistical decision functions_. Ann Math Stat. 20(2):165-205 DOI:[10.1214/aoms/1177730030](https://doi.org/10.1214/aoms/1177730030)
+ 
+* Robbins, H. (1956). _An empirical Bayes approach to statistics_.
 
 * Hayflick, L. (1965). _The Limited in vitro Lifetime of Human Diploid Cell Strains_. Exp Cell Res. 37(3):614–636. DOI:[10.1016/0014-4827(65)90211-9](https://doi.org/10.1016/0014-4827(65)90211-9).
 > WI-38 cells paper (used in vaccine development).
+
+* Birch, M. W. (1963). _Maximum Likelihood in Three-Way Contingency Tables_. J R Stat Soc B (Methodol). 25(1):220-233.
+ 
+* Cox, D. R. (1972). _Regression Models and Life-Tables_. J R Stat Soc B (Methodol). 34:187-202. DOI:[10.1111/j.2517-6161.1972.tb00899.x]https://doi.org/10.1111/j.2517-6161.1972.tb00899.x
+
+* Akaike, H. (1973). _Information Theory and an extension of the maximum likelihood principle_.
+
+* Efron, B. (1979). _Bootstrap methods: another look at the jackknife_. 7(1): DOI:[10.1214/aos/1176344552](https://doi.org/10.1214/aos/1176344552)
 
 * Prusiner, S. B. (1982). _Novel proteinaceous infectious particles cause scrapie_. Science. 216(4542):136–144. DOI:[10.1126/science.6801762](https://doi/org/10.1126/science.6801762).
 > Discovery of prions.
