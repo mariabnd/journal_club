@@ -1,4 +1,4 @@
-![image](https://github.com/mariabnd/journal_club/assets/33788128/17c0b7b8-216c-468b-9159-bc37e0ce317a)Journal club
+Journal club
 ===================================================
 
 [![Project Status: Active – The project has reached a stable, usable state and is being actively developed.](https://www.repostatus.org/badges/latest/active.svg)](https://www.repostatus.org/#active)
