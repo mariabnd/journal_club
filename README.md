@@ -1,4 +1,4 @@
-Journal club
+![image](https://github.com/mariabnd/journal_club/assets/33788128/17c0b7b8-216c-468b-9159-bc37e0ce317a)Journal club
 ===================================================
 
 [![Project Status: Active – The project has reached a stable, usable state and is being actively developed.](https://www.repostatus.org/badges/latest/active.svg)](https://www.repostatus.org/#active)
@@ -7,7 +7,7 @@ Journal club
 
 See also [the reference collection to push back against common statistical myths](https://discourse.datamethods.org/t/reference-collection-to-push-back-against-common-statistical-myths/1787), [Wiki Journal Club](https://www.wikijournalclub.org/wiki/Main_Page), [Society for Epidemiologic Research journal club](https://epiresearch.org/journal-club/), [Society for Healthcare Epidemiology of America journal club](https://shea-online.org/index.php/membership/shea-journal-club), [Tibshirani's hot ideas journal club](https://www.stat.cmu.edu/~ryantibs/journalclub/), [ReproducibiliTea](https://reproducibilitea.org/), [International Society for Pharmacoepidemiology journal club](https://webed.pharmacoepi.org/products/ispe-journal-club-webinar), and [Global Diabetes Journal Club](https://groups.google.com/forum/#!forum/global-diabetes-journal-club) as well as Twitter hashtags [#twitjc (general)](https://twitter.com/hashtag/twitjc), [#phtwitjc (public health)](https://twitter.com/hashtag/phtwitjc), and [#idjclub (infectious disease)](https://twitter.com/hashtag/idjclub)
 
-Tutorial articles can be found in the series: [JAMA Guide to Statistics and Medicine](https://jamanetwork.com/collections/44042/guide-to-statistics-and-medicine), [Statistics in Medicine's tutorial papers](https://onlinelibrary.wiley.com/page/journal/10970258/homepage/tutorials.htm), Nature's [Points of Significance](https://www.nature.com/collections/qghhqm/pointsofsignificance), and the BMJ [Statistics Notes](https://www.bmj.com/specialties/statistics-notes) and [Endgames](https://www.bmj.com/specialties/statistics)
+Tutorial articles can be found in the series: [JAMA Guide to Statistics and Medicine](https://jamanetwork.com/collections/44042/guide-to-statistics-and-medicine), [Statistics in Medicine's tutorial papers](https://onlinelibrary.wiley.com/page/journal/10970258/homepage/tutorials.htm), Nature's [Points of Significance](https://www.nature.com/collections/qghhqm/pointsofsignificance), and the BMJ [Statistics Notes](https://www.bmj.com/specialties/statistics-notes) and [Endgames](https://www.bmj.com/specialties/statistics). Also relevant might be the resources from the [Cornell Statistical Consulting Unit](https://cscu.cornell.edu/resources).
 
 * Gram, H. C. (1884). _Über die isolierte Färbung der Schizomyceten in Schnitt- und Trockenpräparaten_. Fortschritte der Medizin. 2:185–189.
 > Description of Gram staining.
